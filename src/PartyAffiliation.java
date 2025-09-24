@@ -1,4 +1,5 @@
- import java.util.Scanner;
+ //comment: Prompt for D, R, or I. Cascade if/else to print the correct response; Other for anything else.
+import java.util.Scanner;
 
 public class PartyAffiliation {
     public static void main(String[] args) {

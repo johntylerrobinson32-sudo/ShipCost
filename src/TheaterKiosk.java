@@ -1,3 +1,4 @@
+//comment:Prompt age; if age >= 21 print "You get a wrist band." else do nothing.
 import java.util.Scanner;
 
 public class TheaterKiosk {

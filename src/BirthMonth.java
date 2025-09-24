@@ -1,3 +1,4 @@
+//comment: Ask user for month (1-12). If in range echo, else show error with the entered value.
 import java.util.Scanner;
 
 public class BirthMonth {

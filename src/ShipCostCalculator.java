@@ -1,3 +1,4 @@
+//comment: Ask user for item price; if price >= 100 shipping = 0 else shipping = 2% price; print shipping & total
 import java.util.Scanner;
 
 public class ShipCostCalculator {
